@@ -1,7 +1,7 @@
 # 2021-10-25 passwall, ssr plus, no samba, and removed openclash
 # Automatically generated file; DO NOT EDIT.
 # OpenWrt Configuration
-#
+# cc
 CONFIG_MODULES=y
 CONFIG_HAVE_DOT_CONFIG=y
 # CONFIG_TARGET_sunxi is not set
